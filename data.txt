@@ -1,0 +1,2 @@
+fullname;num;mail;name;surname;position
+Jan Kowalski;123 456 789;j.kowalski@example.com;Jan;Kowalski;CEO
