@@ -1,4 +1,4 @@
-# Footer Generator
+# Signatures Generator
 
 This script reads data from a CSV file ('data.txt') containing information about users and generates personalized footer HTML files based on a template.
 
